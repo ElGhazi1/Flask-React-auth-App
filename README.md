@@ -1,4 +1,4 @@
-# My Web Application
+# Flask + React Web Application
 
 ## Description
 
