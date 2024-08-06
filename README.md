@@ -26,40 +26,7 @@ This project is a web application built with Flask as the backend and React as t
 
 - **Database**: 
   - MySQL
-
-## Project Structure
-
-my-web-app/
-├── backend/
-│ ├── app.py # Main Flask application
-│ ├── config.py # Configuration file for Flask
-│ ├── requirements.txt # Python dependencies
-│ └── templates/
-│ ├── sign_up.html # Sign up template
-│ └── login.html # Login template
-├── frontend/
-│ ├── src/
-│ │ ├── components/
-│ │ │ ├── Home.js
-│ │ │ ├── Navbar.js
-│ │ │ ├── Footer.js
-│ │ │ ├── Login.js
-│ │ │ └── SignUp.js
-│ │ ├── styles/
-│ │ │ ├── App.css
-│ │ │ └── index.css
-│ │ ├── App.js
-│ │ └── index.js
-│ ├── public/
-│ │ ├── css/
-│ │ │ └── bootstrap.min.css
-│ │ ├── js/
-│ │ │ └── bootstrap.bundle.min.js
-│ │ └── index.html
-│ ├── package.json # JavaScript dependencies
-│ └── package-lock.json
-└── README.md
-
+    
 
 ## Installation
 
